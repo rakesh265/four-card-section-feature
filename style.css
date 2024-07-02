@@ -55,8 +55,8 @@ body {
 
 .card {
   display: flex;
-  max-width: 350px;
-  height: 200px;
+  max-width: 400px;
+  height: 250px;
   margin-bottom: 20px;
   border-radius: 5px;
   padding: 30px;
@@ -92,7 +92,7 @@ body {
   border-top: solid 5px var(--Blue);
 }
 
-@media screen and (min-width: 426px) {
+@media screen and (min-width: 769px) {
   .container {
     max-width: 1024px;
   }
